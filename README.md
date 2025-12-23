@@ -19,20 +19,20 @@ Modern Design: Gradient backgrounds, shadows, smooth transitions, and mobile-fir
 ​
 
 # How It Works
--- Input Unit: Celsius --	
--- Conversion Formulas: °F = °C × 9/5 + 32  
+-- Input Unit: Celsius 
+Conversion Formulas: °F = °C × 9/5 + 32  
 K = °C + 273.15	--
--- Display Priority: Fahrenheit first-- 
+Display Priority: Fahrenheit first-- 
 ​
--- Input Unit: Fahrenheit--	
--- Conversion Formulas: °C = (°F - 32) × 5/9
-K = °C + 273.15	--
--- Display Priority: Celsius first --
+-- Input Unit: Fahrenheit
+Conversion Formulas: °C = (°F - 32) × 5/9
+K = °C + 273.15	
+Display Priority: Celsius first --
 ​
--- Input Unit: Kelvin	--
--- Conversion Formulas: °C = K - 273.15
-°F = °C × 9/5 + 32 --	
--- Display Priority: Celsius first-- 
+-- Input Unit: Kelvin
+Conversion Formulas: °C = K - 273.15
+°F = °C × 9/5 + 32
+Display Priority: Celsius first-- 
 ​
 Results round to 2 decimal places with animated reveal.
 ​
